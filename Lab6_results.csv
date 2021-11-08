@@ -1,0 +1,3 @@
+Tokenization method,Lab2-Pearson,Lab3-Pearson,Lab6-Pearson
+All sw & punc,0.450498,0.456847,0.401177
+No sw (case-insensitive) & no punc,0.452623,0.478607,0.422446
